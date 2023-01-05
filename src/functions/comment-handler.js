@@ -5,7 +5,7 @@ var request = require("request");
 // populate environment variables locally.
 require('dotenv').config()
 
-const URL = "https://jamstack-comments.netlify.com";
+const URL = "https://dashing-scone-f0286f.netlify.app";
 
 /*
   Our serverless function handler
