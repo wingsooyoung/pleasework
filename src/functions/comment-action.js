@@ -7,7 +7,7 @@ const {
 } = process.env;
 
 // hardcoding this for a moment... TODO: replace request with somethign that follows redirects
-const URL = "https://jamstack-comments.netlify.com/";
+const URL = "https://dashing-scone-f0286f.netlify.app/";
 
 /*
   delete this submission via the api
